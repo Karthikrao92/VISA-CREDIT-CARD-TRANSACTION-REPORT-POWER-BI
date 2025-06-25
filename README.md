@@ -8,7 +8,7 @@ This interactive dashboard was built using Power BI to analyze and visualize cre
 
 *Raw transactional data was imported, cleaned, and transformed using Power Query.
 
-*Relationships were established among tables such as transactions, customers, card categories, and demographics.
+*Relationships were established among tables such as transactions, customers with a Date table.
 
 *Measures and calculated columns were created using DAX for KPIs like Total Revenue, Interest Earned, Transaction Count, and Average Transaction Volume.
 
