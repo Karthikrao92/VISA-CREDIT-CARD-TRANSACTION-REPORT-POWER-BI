@@ -13,7 +13,7 @@ Measures and calculated columns were created using DAX for KPIs like Total Reven
 A clean and intuitive layout was designed for better readability using custom bookmarks, slicers, and synced visuals.
 Emphasis was given to comparative metrics across time (quarters), gender, card category, and demographic attributes.
 
-**Key Functionalities Used**
+**Key Functionalities Used:**
 Dynamic Slicers:
 Multi-select filters for Card Category, Quarter, Income Group, Gender, and Week Start Date allow users to slice the data interactively.
 
